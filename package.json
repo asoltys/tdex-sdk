@@ -61,7 +61,7 @@
     "axios": "^0.19.2",
     "google-protobuf": "^3.11.4",
     "jsbi": "^3.1.2",
-    "liquidjs-lib": "provable-things/liquidjs-lib",
+    "liquidjs-lib": "asoltys/liquidjs-lib",
     "tdex-protobuf": "tdex-network/tdex-protobuf#master",
     "tslib": "^2.0.0"
   }
